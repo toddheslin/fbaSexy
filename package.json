@@ -1,0 +1,16 @@
+{
+  "name": "fbaSexy",
+  "version": "0.0.1",
+  "description": "A simple node.js app that uses gender prediction libraries to predict the gender of your customers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^1.0.0",
+    "gender-detection": "0.0.5",
+    "json2csv": "^3.6.2"
+  }
+}

@@ -13,8 +13,9 @@ You're ready to go!
 
 1. Clone or download this repository to your computer
 2. 'cd' into the directory (or on a mac drop the folder into the terminal icon)
-3. Replace my `import.csv` file with your own (ensure you use the same headings or change the code to reflect your headings)
-4. In terminal run `node index.js`
+3. Type `npm install` to install the node_modules into the folder
+4. Replace my `import.csv` file with your own (ensure you use the same headings or change the code to reflect your headings)
+5. In terminal run `node index.js`
 
 This will produce output.csv with the appended gender columns and it will print out the results in the terminal.
 
@@ -51,5 +52,7 @@ I dunno. Check out the github link below. I intend to use multiple libraries in 
 Thanks to the open source repositories that have allowed this project to come together to solve a practical problem for a lot of people.
 
 [CSV to JSON](https://github.com/Keyang/node-csvtojson)
+
 [JSON to CSV](https://github.com/zemirco/json2csv)
+
 [Gender Detection](https://github.com/davidemiceli/gender-detection)
